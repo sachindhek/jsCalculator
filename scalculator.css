@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    margin-top: 10%;
+
+}
+
+.first {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    /* width: 40px; */
+    /*margin: top,rigth,bottom,left; */
+}
+
+.formf {
+    max-height: 30%;
+    width: 50%;
+}
+
+/*padding: top,rigth,bottom,left; */
